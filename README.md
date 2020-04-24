@@ -1,6 +1,6 @@
-#AceleraZapZap
+# AceleraZapZap
 
-####An AddOn for web.whatsapp.com
+#### An AddOn for web.whatsapp.com
 
 This is the source code for [it](https://addons.mozilla.org/pt-BR/firefox/addon/acelera-zap-zap/).
 
